@@ -5,6 +5,7 @@ public class Practice01 {
 
         System.out.println("Hasibullah Kaleem");
         System.out.println("Kaleem");
+        System.out.println("Rahimullah Kaleem");
 
 
     }
