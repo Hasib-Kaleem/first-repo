@@ -10,5 +10,6 @@ public class MyGitClass {
         int y = 35;
         int result = x*y;
         System.out.println("result = " + result);
+
     }
 }
